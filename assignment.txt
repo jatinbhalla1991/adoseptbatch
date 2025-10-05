@@ -1,0 +1,6 @@
+assignment 5th oct
+Question 1:  create a hierarchy on azure boards considering you are working on time tracker application in agile model.
+Question 2: try commands, git stash,git fetch, git reset and also other commands of git sheet: https://education.github.com/git-cheat-sheet-education.pdf
+Question 3: try to apply policies on azure devops repos and restrict people to make changes and merge if work item is not linked to pull request
+Question 4: try to explore and get familiar with azure devops gui
+

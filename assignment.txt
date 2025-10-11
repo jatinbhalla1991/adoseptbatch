@@ -4,3 +4,9 @@ Question 2: try commands, git stash,git fetch, git reset and also other commands
 Question 3: try to apply policies on azure devops repos and restrict people to make changes and merge if work item is not linked to pull request
 Question 4: try to explore and get familiar with azure devops gui
 
+
+Assignment 11th oct
+Question1: create a pipeline which should copy the file from your desktop to documents folder (you can use copy task)
+Question2: try to print all files available in a directory
+Question3: try to create a backup of folder and name it folder_backup_date and this pipeline should trigger on every alternate days
+

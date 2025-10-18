@@ -10,3 +10,12 @@ Question1: create a pipeline which should copy the file from your desktop to doc
 Question2: try to print all files available in a directory
 Question3: try to create a backup of folder and name it folder_backup_date and this pipeline should trigger on every alternate days
 
+
+assignment 18th oct
+question1 : try docker commands :https://docs.docker.com/get-started/docker_cheatsheet.pdf
+question2: pull nginx image and try to modify html page with your name
+question3: try to create a release pipeline in azure devops to deploy application on azure web app services. you can use java sample code provided 
+question4: explore docker and docker hub
+
+
+

@@ -1,4 +1,6 @@
-FROM nginx
-COPY ./html /usr/share/nginx/html
+FROM httpd:alpine
+COPY ./html/ /usr/local/apache2/htdocs/
 EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+CMD ["httpd-foreground"]
+
+
